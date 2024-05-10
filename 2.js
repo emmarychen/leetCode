@@ -54,3 +54,4 @@ doraMoney.add(100);
 const test = doraMoney.current();
 console.log(test);
 console.log('新增test_b');
+console.log('新增test_a');
